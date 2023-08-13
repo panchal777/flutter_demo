@@ -1,0 +1,3 @@
+[submodule "base_library_flutter"]
+	path = base_library_flutter
+	url = https://github.com/panchal777/base_library_flutter.git
